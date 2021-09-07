@@ -5,10 +5,18 @@ permalink: /about/
 content-type: eg
 ---
 
-Welcome to [[notenote.link::https://github.com/Maxence-L/notenote.link]], a fork of [[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]]!
+Hello and welcome to my digital garden![["A collection of thoughts, ideas, highlights, annotations, quotes, summaries, and notes that are richer than a tweet, but lack the timestamped nature of a blog post or published essay [(Grimmett, 2020)](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/)".::rsn]]
 
-I used Obsidian for the last 6 months, to keep track of all of the things I was learning while pivoting my career from Economics to Data Science.
+If you want to know more about this project instead of knowing more about me, go read my [[What the hell is this?\|introduction to this website]].
 
-200 notes later, I felt that my Obsidian space was getting cramped and I began to yearn for a way to access my notes everywhere. Simply-Jekyll appeared as the most satisfactory tool on the web, as I needed wikilinks, search, LateX, and code highlighting. 
+As you might've already been able to tell, I'm a graphic design student at [[CIIT Philippines::https://www.ciit.edu.ph/]].
 
-A little bit of dev work and polishing was need to make it compatible with my Obsidian notes. However, the template is now mature enough, so go on an [[How to setup this site\|give it a try!]]
+I'm taking up graphic design as an alternative to my desired humanities course, which is sociology, and I think I have a lot of writing juices within me, that's why I started this project. 😂
+
+But! I digress. I'm also someone who's interested in [[🟣 Personal Knowledge Management]] (I've yet to write my thoughts on the topic, so bear with the inactive link!).
+
+Umm, I also read books 📚, and I'm soon going to compile a books list here, on my website, including book notes, so stay tuned! 😊
+
+That's about it for the general introduction, I'll add more things here soon as I work on this project. But for now, I think those will suffice.
+
+You can [[follow me on Twitter::https://twitter.com/theianaquino]] so you can stay tuned on what it is that I'm up to!
