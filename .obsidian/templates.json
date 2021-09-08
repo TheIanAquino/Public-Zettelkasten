@@ -1,0 +1,5 @@
+{
+  "dateFormat": "YYYY-MMMM-DD-dddd",
+  "timeFormat": "hh:mm A",
+  "folder": "templates"
+}

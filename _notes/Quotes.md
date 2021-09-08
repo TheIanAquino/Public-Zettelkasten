@@ -1,6 +1,7 @@
 ---
 title: Quotes
 tags: "💾-Resources"
+toc: false
 comments: true
 ---
 <center> Here, you will find a growing repository of the quotes I encounter </center>

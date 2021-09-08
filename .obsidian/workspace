@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "26ba6202d5aa37a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "809da09efd80978c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "about.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d74f1c108844e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2eeefa024d46031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f2c44d9ae84d82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "440d3b3d3b75d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236
+  },
+  "right": {
+    "id": "d8c4dd54e32ec4e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c1dc529f5662fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e7f3c9e233adba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df15d2ff4177451e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "809da09efd80978c",
+  "lastOpenFiles": [
+    "about.md",
+    "_notes/Personal Knowledge Management.md",
+    "_notes/What the hell is this website.md",
+    "_notes/Digital Gardens.md",
+    "_notes/Digital gardens are constructive, rather than convulsive.md",
+    "_notes/Digital gardens encourage thinking..md",
+    "_notes/Digital gardens evolve over time..md",
+    "_notes/Untitled.md",
+    "_notes/Quotes.md",
+    "_notes/Digital gardens.md"
+  ]
+}
