@@ -9,7 +9,7 @@ Hello there! 👋
 
 As I experimented with content creation, I came across the idea of [[Digital Gardens\|digital gardens]].
 
-In short, a place that compiles the plethora of materials that a person encounters. 
+A place that compiles the essence that a person gets from the plethora of materials that he encounters.
 
 Think, signal from everything in my life, combined.
 
