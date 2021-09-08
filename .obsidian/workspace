@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "_notes/Digital Gardens.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "_notes/Digital Gardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "809da09efd80978c",
   "lastOpenFiles": [
+    "_notes/Digital Gardens.md",
+    "_notes/WHAT IF.md",
+    "_notes/Untitled.md",
+    "_notes/Digital gardens are constructive, rather than convulsive.md",
+    "_notes/Digital gardens evolve over time..md",
     "about.md",
     "_notes/Personal Knowledge Management.md",
     "_notes/What the hell is this website.md",
-    "_notes/Digital Gardens.md",
-    "_notes/Digital gardens are constructive, rather than convulsive.md",
     "_notes/Digital gardens encourage thinking..md",
-    "_notes/Digital gardens evolve over time..md",
-    "_notes/Untitled.md",
-    "_notes/Quotes.md",
-    "_notes/Digital gardens.md"
+    "_notes/Quotes.md"
   ]
 }

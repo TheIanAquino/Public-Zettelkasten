@@ -1,5 +1,5 @@
 ---
-title: Digital gardens are constructive, rather than convulsive
+title: Digital gardens are constructive, rather than convulsive.
 tags: 🌱-Digital-Gardens
 toc: false
 comments: true
