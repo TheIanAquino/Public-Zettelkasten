@@ -10,7 +10,7 @@ A digital garden is a public repository of materials that embodies the plethora 
 
 Here are the characteristics of a digital garden:
 
-1. [[Digital gardens are constructive, rather than convulsive]]
+1. [[Digital gardens are constructive, rather than convulsive.]]
 
 2. [[Digital gardens encourage thinking.]]
 
