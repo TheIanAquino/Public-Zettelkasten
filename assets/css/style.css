@@ -826,6 +826,7 @@ hr {
 
 .sidenote-number {
     counter-increment: sidenote-counter;
+    color:#4183c4;
 }
 
 .sidenote-number:after,
@@ -834,6 +835,7 @@ hr {
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     position: relative;
     vertical-align: baseline;
+    color:#4183c4;
 }
 
 .sidenote-number:after {
@@ -841,6 +843,7 @@ hr {
     font-size: 12px;
     top: -0.5rem;
     left: 0.1rem;
+    color:#4183c4;
 }
 
 .sn-right:before,
@@ -848,6 +851,7 @@ hr {
     content: counter(sidenote-counter) " ";
     font-size: 14px;
     top: -0.5rem;
+    color:#4183c4;
 }
 
 blockquote .sn-left,
