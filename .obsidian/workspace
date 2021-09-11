@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Digital gardens evolve over time..md",
+            "file": "_notes/content creation as learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Digital gardens evolve over time..md",
+                "file": "_notes/content creation as learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "809da09efd80978c",
   "lastOpenFiles": [
-    "_notes/Digital gardens evolve over time..md",
-    "_notes/Digital Gardens.md",
-    "_notes/Digital gardens are constructive, rather than destructive..md",
-    "_notes/Digital gardens encourage thinking..md",
-    "_notes/Personal Knowledge Management.md",
     "_notes/content creation as learning.md",
+    "_notes/What the hell is this website.md",
+    "_notes/Quotes.md",
+    "_notes/Personal Knowledge Management.md",
+    "_notes/Digital gardens evolve over time..md",
+    "_notes/Digital gardens encourage thinking..md",
+    "_notes/Digital gardens are constructive, rather than destructive..md",
+    "_notes/Digital Gardens.md",
     "_notes/Content creation as learning.md",
-    "_notes/Digital gardens are constructive, rather than convulsive..md",
-    "_notes/Digital gardens are constructive, rather than convulsive.md",
-    "_notes/WHAT IF.md"
+    "_notes/Digital gardens are constructive, rather than convulsive..md"
   ]
 }

@@ -5,10 +5,6 @@ toc: true
 comments: true
 ---
 
-It does not, on the other hand, replicate the destructive process that is ubiquitous in the information age wherein the value of information decreases as its quantity increases.
-
-Digital gardens are where ideas grow, rather than shrink. 
-
 Digital gardeners, when planting seeds of ideas, often cut to the core of the concepts they're dealing with. As a result, the process of planting ideations in a digital garden requires cultivation. During the cultivation process is where an idea grows.
 
 Here is a fun representation with emojis for each phase of an idea's growth process when applied to my website:
@@ -30,4 +26,15 @@ Evergreen trees are ideas that are already fully developed. Meaning, they are re
 ### 🔍 Caveat
 
 While seedlings serve as the base form of future fundamental ideas, it is important to note that planting idea seedlings do not necessarily equate to them growing in the future. That is, just like real life plants, when I see little-to-no future for my idea seedlings to grow, I discard them and find new types of seeds to plant in my digital garden. This analogy goes the same for the stages after the idea seedling.
+
+---
+
+### 🌱 Seedling Archive
+
+Digital gardens are like books, but continuously revisioned.
+
+It does not, on the other hand, replicate the destructive process that is ubiquitous in the information age wherein the value of information decreases as its quantity increases.
+
+Digital gardens are where ideas grow, rather than shrink. 
+
 
